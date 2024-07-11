@@ -1,6 +1,6 @@
 # Sudoku Solver
 
-This project is a simple sudoku solver that uses a REST API t0 generate Sudoku puzzles and serves them to a frontend.
+This project is a simple sudoku solver that uses a REST API to generate Sudoku puzzles and serves them to a frontend.
 
 ## Setup
 
