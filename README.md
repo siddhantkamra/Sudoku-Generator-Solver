@@ -7,6 +7,14 @@ This project is a simple sudoku solver that uses a REST API t0 generate Sudoku p
 1. Clone the repository
 2. Install dependencies: `npm install`
 3. Run the server: `node src/app.js`
+4. Open the frontend in your browser
+
+## Structure
+The project is structured as follows:
+- `src/app.js`: The main file that starts the server and handles the routes
+- `src/sudoku.js`: The file that contains the logic used by the REST api to generate sudoku puzzles
+- `src/script.js`: Contains backtracking algorithm used to solve the puzzles
+
 
 ## API Endpoints
 
